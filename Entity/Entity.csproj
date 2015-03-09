@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8B2C42A-7A65-4FD9-9F49-DA990E724489}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entity</RootNamespace>
+    <AssemblyName>Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Article.cs" />
+    <Compile Include="ArticleType.cs" />
+    <Compile Include="CePing\Join_16PfAnswer.cs" />
+    <Compile Include="CePing\Join_16PfResults.cs" />
+    <Compile Include="CePing\Join_16PfTest.cs" />
+    <Compile Include="CePing\Join_AbilityResults.cs" />
+    <Compile Include="CePing\Join_AbilityTest.cs" />
+    <Compile Include="CePing\Join_Ability_Major.cs" />
+    <Compile Include="CePing\Join_DISCTest.cs" />
+    <Compile Include="CePing\Join_EvaluationUser.cs" />
+    <Compile Include="CePing\Join_HollandResults.cs" />
+    <Compile Include="CePing\Join_JiaoLvTest.cs" />
+    <Compile Include="CePing\Join_MbitAnswer.cs" />
+    <Compile Include="CePing\Join_MbitTest.cs" />
+    <Compile Include="CePing\Join_ProfessionResults.cs" />
+    <Compile Include="CePing\Join_ProfessionTest.cs" />
+    <Compile Include="CePing\Join_QiZhiTest.cs" />
+    <Compile Include="CePing\Join_Results.cs" />
+    <Compile Include="CePing\Join_StudyAbroad.cs" />
+    <Compile Include="CePing\Join_StudyAbroadAnswer.cs" />
+    <Compile Include="CePing\Join_Test.cs" />
+    <Compile Include="CePing\Join_TestWL.cs" />
+    <Compile Include="CePing\Join_TestWLResults.cs" />
+    <Compile Include="CePing\Join_XinLiTest.cs" />
+    <Compile Include="CePing\Join_ZhiYeMaoTest.cs" />
+    <Compile Include="CePing\Join_ZhongKeResults.cs" />
+    <Compile Include="CePing\Join_ZhongKeTest.cs" />
+    <Compile Include="CooperativePartner.cs" />
+    <Compile Include="ExtendedLog.cs" />
+    <Compile Include="GaoKaoCard.cs" />
+    <Compile Include="GL_DeliverGoods.cs" />
+    <Compile Include="GL_DeliverGoodsList.cs" />
+    <Compile Include="JMD\MeiGuoBenKe.cs" />
+    <Compile Include="JMD\MeiGuoShuoShi.cs" />
+    <Compile Include="CePing\Join_MbtiResults.cs" />
+    <Compile Include="Join_Card.cs" />
+    <Compile Include="Join_JiaMengDian.cs" />
+    <Compile Include="Join_ProjectCategory.cs" />
+    <Compile Include="Join_Student.cs" />
+    <Compile Include="MarketingPlan.cs" />
+    <Compile Include="MarketingPlanMaterial.cs" />
+    <Compile Include="MaterialDeliveryHistory.cs" />
+    <Compile Include="MaterialInventory.cs" />
+    <Compile Include="MaterialStorageHistory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="S_City.cs" />
+    <Compile Include="S_District.cs" />
+    <Compile Include="S_Province.cs" />
+    <Compile Include="WorkerAll.cs" />
+    <Compile Include="WorkerProcjectCategory.cs" />
+    <Compile Include="ZX_Contract.cs" />
+    <Compile Include="ZX_LookArticle.cs" />
+    <Compile Include="ZX_Orders.cs" />
+    <Compile Include="ZX_OrdersGoods.cs" />
+    <Compile Include="ZX_PartnerProcjectCategory.cs" />
+    <Compile Include="ZX_PayHistory.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

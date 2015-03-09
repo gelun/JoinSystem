@@ -1,0 +1,22 @@
+﻿/* CSS Document */
+body{padding:0; margin:0; color:#303433; font: 12px/24px "微软雅黑" ; background:#fff;}
+h1, h2, h3, h4, p, ul, li, input, img, dl, dt, dd, tr, td{padding:0;margin:0;border: 0;list-style: none;}
+.clear{clear: both;}
+
+a{color:#94aa8a; text-decoration:none;}
+a:hover{ color:#ffffff; text-decoration:none;}
+
+/* CSS Document */
+.daohang{ width:100%; margin:auto 0; height:45px; background:#1f6002;}
+.dh{margin: 0 auto;}
+.logo{ width:175px; height:45px; float:left;}
+.liebiao{ width:630px; float:left; margin-top:10px;}
+.liebiao ul{width:630px; float:left;}
+.liebiao li{width:76px; float:left; border-right:1px solid #267303; text-align:center; font-size:14px; color:#94aa8a;}
+.current{font-weight:bold;color:#fff;}
+
+.yhm{width:150px;float:right;margin-top:13px;font-size:12px;}
+.yhm_img{float:left;width:22px;}
+.yhm_wz{float:left;color:#a1b399;margin:0px 10px 0px 10px;}
+.yhm_img2{float:left;width:12px;margin-top:5px;}
+.tc{float:left;padding-left:5px;color:#a1b399;}

@@ -1,0 +1,114 @@
+E:\CodeSVN\JoinSystem\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\DAL.dll
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\DAL.pdb
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\Basic.dll
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\Entity.dll
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\Basic.pdb
+E:\CodeSVN\JoinSystem\DAL\bin\Debug\Entity.pdb
+E:\CodeSVN\JoinSystem\DAL\obj\Debug\DAL.dll
+E:\CodeSVN\JoinSystem\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem改版前\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem改版前\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem改版前\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem改版前\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem_new\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem_new\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem_new\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem_new0411\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem_new0411\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem_new0411\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0411\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0411 - 副本\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem_new0704\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem_new0704\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem_new0704\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem_new0704\DAL\obj\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\DAL.dll
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\DAL.pdb
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\Basic.dll
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\Entity.dll
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\Basic.pdb
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\bin\Debug\Entity.pdb
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\obj\Debug\DAL.dll
+F:\CodeSVN\JoinSystem\JoinSystem_new0704\DAL\obj\Debug\DAL.pdb
+F:\SVNProject\Join - 副本\DAL\bin\Debug\DAL.dll
+F:\SVNProject\Join - 副本\DAL\bin\Debug\DAL.pdb
+F:\SVNProject\Join - 副本\DAL\bin\Debug\Basic.dll
+F:\SVNProject\Join - 副本\DAL\bin\Debug\Entity.dll
+F:\SVNProject\Join - 副本\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\SVNProject\Join - 副本\DAL\bin\Debug\Basic.pdb
+F:\SVNProject\Join - 副本\DAL\bin\Debug\Entity.pdb
+F:\SVNProject\Join - 副本\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\SVNProject\Join - 副本\DAL\obj\Debug\DAL.dll
+F:\SVNProject\Join - 副本\DAL\obj\Debug\DAL.pdb
+F:\SVNProject\Join\DAL\bin\Debug\DAL.dll
+F:\SVNProject\Join\DAL\bin\Debug\DAL.pdb
+F:\SVNProject\Join\DAL\bin\Debug\Basic.dll
+F:\SVNProject\Join\DAL\bin\Debug\Entity.dll
+F:\SVNProject\Join\DAL\bin\Debug\itextsharp.dll
+F:\SVNProject\Join\DAL\bin\Debug\svg.dll
+F:\SVNProject\Join\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\SVNProject\Join\DAL\bin\Debug\Basic.pdb
+F:\SVNProject\Join\DAL\bin\Debug\Entity.pdb
+F:\SVNProject\Join\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\SVNProject\Join\DAL\obj\Debug\DAL.dll
+F:\SVNProject\Join\DAL\obj\Debug\DAL.pdb
+E:\咨询中心\JoinSystem\DAL\bin\Debug\DAL.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\DAL.pdb
+E:\咨询中心\JoinSystem\DAL\bin\Debug\Basic.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\Entity.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\itextsharp.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\svg.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\咨询中心\JoinSystem\DAL\bin\Debug\Basic.pdb
+E:\咨询中心\JoinSystem\DAL\bin\Debug\Entity.pdb
+E:\咨询中心\JoinSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\咨询中心\JoinSystem\DAL\obj\Debug\DAL.dll
+E:\咨询中心\JoinSystem\DAL\obj\Debug\DAL.pdb

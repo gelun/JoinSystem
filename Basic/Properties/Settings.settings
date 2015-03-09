@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Basic.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Basic_SendMobiles_WebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sdk105.entinfo.cn:8060/webservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

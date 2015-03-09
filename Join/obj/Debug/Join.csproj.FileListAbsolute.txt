@@ -1,0 +1,8 @@
+E:\咨询中心\JoinSystem\Join\bin\Join.dll
+E:\咨询中心\JoinSystem\Join\bin\Join.pdb
+E:\咨询中心\JoinSystem\Join\obj\Debug\Join.dll
+E:\咨询中心\JoinSystem\Join\obj\Debug\Join.pdb
+E:\GitHub\咨询中心\JoinSystem\Join\bin\Join.dll
+E:\GitHub\咨询中心\JoinSystem\Join\bin\Join.pdb
+E:\GitHub\咨询中心\JoinSystem\Join\obj\Debug\Join.dll
+E:\GitHub\咨询中心\JoinSystem\Join\obj\Debug\Join.pdb
